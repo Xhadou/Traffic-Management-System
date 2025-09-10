@@ -5,6 +5,7 @@ on:
     branches: [ main, master ]
   pull_request:
     branches: [ main, master ]
+  workflow_dispatch:
 
 jobs:
   build:
@@ -47,3 +48,13 @@ jobs:
         sudo apt-get install -y cppcheck
         make analyze
       continue-on-error: true
+
+    - name: Upload build artifacts
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: build-outputs
+        path: |
+          bin/**
+          build/**
+        if-no-files-found: ignore
