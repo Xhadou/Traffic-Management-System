@@ -1,3 +1,4 @@
+![Build](https://github.com/Xhadou/Traffic-Management-System/actions/workflows/build.yml/badge.svg?branch=main)
 # Traffic Management System
 
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)
