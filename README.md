@@ -1,4 +1,4 @@
-# 🚦 Traffic Management System
+# Traffic Management System
 
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
@@ -9,7 +9,7 @@ A sophisticated real-time traffic management simulation system built in modern C
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Multi-threaded Simulation**: Utilizes a custom thread pool for concurrent and efficient processing of traffic nodes.
 - **Priority-based Vehicle Routing**: Emergency vehicles (ambulances, fire trucks) are given precedence over regular traffic.
@@ -21,7 +21,7 @@ A sophisticated real-time traffic management simulation system built in modern C
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### Prerequisites
 
@@ -56,7 +56,7 @@ make run
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 .
@@ -70,13 +70,13 @@ make run
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
