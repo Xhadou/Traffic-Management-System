@@ -17,7 +17,7 @@ This document provides a deep dive into the technical aspects of the Traffic Man
 
 ---
 
-## 🏗️ Architecture Deep Dive
+## Architecture Deep Dive
 
 ### System Architecture
 
@@ -70,7 +70,7 @@ This document provides a deep dive into the technical aspects of the Traffic Man
 
 ---
 
-## 📊 Code Structure Analysis
+## Code Structure Analysis
 
 ### Module Responsibilities
 
@@ -146,7 +146,7 @@ public:
 
 ---
 
-## 🧮 Key Algorithms & Data Structures
+## Key Algorithms & Data Structures
 
 ### 1. **Breadth-First Search (BFS) Pathfinding**
 
@@ -280,7 +280,7 @@ void TrafficNetwork::perform_vehicle_move(Vehicle& vehicle, size_t from_node, in
 
 ---
 
-## 🧵 Threading & Concurrency
+## Threading & Concurrency
 
 ### Thread Architecture
 
@@ -338,7 +338,7 @@ atomic<int> active_threads{0};
 
 ---
 
-## 🔧 Build System & Dependencies
+## Build System & Dependencies
 
 ### Makefile Features
 
@@ -387,7 +387,7 @@ profile: CXXFLAGS += -pg        # Profiling build
 
 ---
 
-## 📖 Step-by-Step Code Walkthrough
+## Step-by-Step Code Walkthrough
 
 ### Execution Flow
 
@@ -546,7 +546,7 @@ bool TrafficNetwork::can_move_to_node_safe(int node_idx, VehicleType vehicle_typ
 
 ---
 
-## ⚡ Performance Analysis
+## Performance Analysis
 
 ### Time Complexity Analysis
 
@@ -601,7 +601,7 @@ atomic<int> active_threads{0};
 
 ---
 
-## 🚀 Advanced Topics
+## Advanced Topics
 
 ### Performance Profiling
 
@@ -639,7 +639,7 @@ lizard src/ include/ --CCN 15
 
 ---
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
