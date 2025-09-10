@@ -1,4 +1,4 @@
-name: Build Traffic Management System
+name: Build
 
 on:
   push:
