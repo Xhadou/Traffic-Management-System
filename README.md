@@ -82,6 +82,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 📚 Full Documentation
+## Full Documentation
 
 For a deep dive into the project's architecture, algorithms, and implementation details, please see the [**Full Technical Documentation**](DOCUMENTATION.md).
