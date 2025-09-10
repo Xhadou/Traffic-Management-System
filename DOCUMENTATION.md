@@ -683,7 +683,7 @@ gdb ./traffic_management
 
 ---
 
-## 📚 Further Learning
+## Further Learning
 
 ### Recommended Reading
 
