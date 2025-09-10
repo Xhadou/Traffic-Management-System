@@ -5,7 +5,7 @@
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-A sophisticated real-time traffic management simulation system built in modern C++17. It models vehicle movement through a network of interconnected traffic nodes, supports multiple vehicle types with priority-based routing, and provides multiple simulation modes.
+A real-time traffic management simulation system built in C++. It models vehicle movement through a network of interconnected traffic nodes, supports multiple vehicle types with priority-based routing, and provides multiple simulation modes.
 
 ---
 
@@ -17,7 +17,6 @@ A sophisticated real-time traffic management simulation system built in modern C
 - **Optimal Pathfinding**: Implements BFS to calculate the shortest path for vehicles.
 - **Dynamic Capacity Management**: Nodes have capacity limits, and vehicles queue when a node is full.
 - **Comprehensive Statistics**: Tracks and displays detailed performance metrics.
-- **Modular & Modern Codebase**: Written in C++17 with a clean separation of concerns, smart pointers for memory management, and a custom thread pool.
 
 ---
 
