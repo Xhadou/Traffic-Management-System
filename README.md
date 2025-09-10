@@ -38,7 +38,7 @@ make --version
 
 ```bash
 # 1. Clone the repository
-# git clone <repository-url>
+# git clone github.com/Xhadou/Traffic-Management-System
 # cd traffic-management-system
 
 # 2. Set up project directories
