@@ -1,7 +1,7 @@
 # Traffic Management System
 
-![Build](https://github.com/Xhadou/Traffic-Management-System/actions/workflows/build.yml/badge.svg?branch=main)
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)
+![Build](https://github.com/Xhadou/Traffic-Management-System/actions/workflows/build.yml/badge.svg?branch=main)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
